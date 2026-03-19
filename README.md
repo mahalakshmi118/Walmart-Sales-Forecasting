@@ -34,6 +34,3 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 pip install -r requirements.txt
 
 2. Run the notebook
-
-2. Run the notebook
->>>>>>> b2357a30edded9b125f12837d971b337ab6a18a8
