@@ -26,20 +26,14 @@ This project analyzes Walmart sales data and builds a forecasting model to predi
 - Forecasted next 12 weeks of sales
 
 ## 📂 Files
-<<<<<<< HEAD
-- `walmart_analysis.ipynb` → main notebook
-- `walmart.csv` → dataset
-=======
-- `walmart.ipynb` → main notebook
+- `Walmart.ipynb` → main notebook
 - `Walmart.csv` → dataset
->>>>>>> b2357a30edded9b125f12837d971b337ab6a18a8
 
 ## 🚀 How to Run
 1. Install dependencies:
 pip install -r requirements.txt
 
-<<<<<<< HEAD
 2. Run the notebook
-=======
+
 2. Run the notebook
 >>>>>>> b2357a30edded9b125f12837d971b337ab6a18a8
